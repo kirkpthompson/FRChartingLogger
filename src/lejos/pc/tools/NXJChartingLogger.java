@@ -6,6 +6,7 @@ import lejos.pc.charting.ChartingLogger;
 
 public class NXJChartingLogger
 {
+	@SuppressWarnings("unused")
 	public static int start(String[] args) throws Exception
 	{
 		// just throw exception and abort? or continue gracefully? 
